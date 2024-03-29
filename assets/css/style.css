@@ -8,7 +8,6 @@
 body {
     background-color: #d9dcd6;
 }
-
 /* code below for header on webpage */
 header {
     padding: 20px;
@@ -121,7 +120,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* code below for webpage footer */
 .footer {
     padding: 30px;
